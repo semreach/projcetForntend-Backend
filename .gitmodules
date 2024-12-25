@@ -1,0 +1,6 @@
+[submodule "frontend1"]
+	path = frontend1
+	url = https://github.com/semreach/frontend1.git
+[submodule "backend02"]
+	path = backend02
+	url = https://github.com/semreach/backend02.git
